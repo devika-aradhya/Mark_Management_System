@@ -157,3 +157,23 @@ Export reports to PDF or CSV.
 Add date filters (e.g., show marks for a particular exam month).
 
 Use JSTL and MVC pattern for better separation.
+
+
+1.ADD MARKS 
+[https://github.com/devika-aradhya/Mark_Management_System/blob/main/MarkWebApp/ADDMARKS.png]
+
+
+
+
+2.UPDATE MARKS
+[]
+
+
+
+3.DELETE MARKS
+[]
+
+
+
+4.DISPLAY MARKS
+[]
