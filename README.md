@@ -176,4 +176,4 @@ Use JSTL and MVC pattern for better separation.
 
 
 4.DISPLAY MARKS
-[]
+[https://github.com/devika-aradhya/Mark_Management_System/blob/main/MarkWebApp/DISPLAYMARK.png]
