@@ -171,7 +171,7 @@ Use JSTL and MVC pattern for better separation.
 
 
 3.DELETE MARKS
-[]
+[https://github.com/devika-aradhya/Mark_Management_System/blob/main/MarkWebApp/DELETEMARK.png]
 
 
 
