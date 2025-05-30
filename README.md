@@ -166,7 +166,7 @@ Use JSTL and MVC pattern for better separation.
 
 
 2.UPDATE MARKS
-[]
+[https://github.com/devika-aradhya/Mark_Management_System/blob/main/MarkWebApp/UPDATEMARK.png]
 
 
 
